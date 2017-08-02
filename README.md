@@ -12,7 +12,7 @@ to the player before the game starts. For more details about the game refer to t
 
 1. Clone the repository
 2. Type make in the command line
-3. Run the executable that is created: playtiles
+3. Run the executable that is created: *playtiles*
 
 ## Known Issues
 
