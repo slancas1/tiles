@@ -8,7 +8,7 @@ to the player before the game starts. For more details about the game refer to t
 
 ## How to Play
 
-**Will need to have access to XQuartz and the game works best when played locally**
+**The game works best when played locally but you will need to have XQuartz downloaded**
 
 1. Clone the repository
 2. Type make in the command line
