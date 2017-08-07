@@ -1,4 +1,4 @@
-## Tiles Game
+# Tiles Game
 
 **Authors:** Sophie Lancaster and Brianna Hoelting
 
